@@ -15,4 +15,3 @@ I've included a `Solved` column, to easily keep track for those who want to prac
 * [Div2C](https://github.com/karansinghgit/CodeForces-Ladders/blob/master/div2C.md)
 * [Div2D](https://github.com/karansinghgit/CodeForces-Ladders/blob/master/div2D.md)
 * [Div2E](https://github.com/karansinghgit/CodeForces-Ladders/blob/master/div2E.md)
-hhhh
